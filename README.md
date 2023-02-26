@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Dbeaver-897263?style=flat-square&logo=Dbeaver&logoColor=white"/> 
 </div>
 
-### <a href="www.bit.ly/backpjh">Notion</a>
+### <a href="https://bit.ly/backpjh">Notion</a>
 
 <!--
 **JongHyunParkDev/JongHyunParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
