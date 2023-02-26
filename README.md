@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dbeaver-897263?style=flat-square&logo=Dbeaver&logoColor=white"/> 
 </div>
+
+### <a href="bit.ly/backpjh">Notion</a>
+
 <!--
 **JongHyunParkDev/JongHyunParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
