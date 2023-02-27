@@ -1,5 +1,4 @@
-## Skills 
-### Language ⌨
+### ⌨ Language 
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-427595?style=flat-square&logo=Java&logoColor=white"/> 
@@ -12,7 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 </div>
 
-### Tool 🛠
+### 🛠 Tool 
 <div>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-343434?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/Dbeaver-897263?style=flat-square&logo=Dbeaver&logoColor=white"/> 
 </div>
 
-### <a href="https://bit.ly/backpjh">Notion</a>
+### 📒<a href="https://bit.ly/backpjh">Notion</a>
 
 <!--
 **JongHyunParkDev/JongHyunParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
