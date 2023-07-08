@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Vue2.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 </div>
 
 ### 🛠 Tool 
