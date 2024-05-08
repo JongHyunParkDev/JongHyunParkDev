@@ -1,8 +1,9 @@
 ### ⌨ Language 
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-427595?style=flat-square&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MyBatis-666666?style=flat-square&logo=MyBatis&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-427595?style=flat-square&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MyBatis-666666?style=flat-square&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JPA-E3695F?style=flat-square&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 </div>
