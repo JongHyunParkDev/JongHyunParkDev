@@ -23,9 +23,6 @@
 
 ### 📒<a href="https://bit.ly/backpjh">Notion</a>
 
-### 📅 SPPD (가계부)
-https://sppd.kro.kr
-
 <!--
 **JongHyunParkDev/JongHyunParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
