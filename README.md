@@ -36,7 +36,7 @@
 </div>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyunParkDev&show_icons=true&)
+![Anurag's GitHub stats](https://github-readme-stats-jonghyunparkdevs-projects.vercel.app/api?username=jonghyunparkdev&count-private=true)
 
 </div>
 
