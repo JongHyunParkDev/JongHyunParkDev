@@ -1,6 +1,6 @@
 ### ⌨ Language 
 <div>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-427595?style=flat-square&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MyBatis-666666?style=flat-square&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JPA-E3695F?style=flat-square&logo=openjdk&logoColor=white"/> 
@@ -20,13 +20,25 @@
 
 ### 🛠 Tool 
 <div>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-343434?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-343434?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dbeaver-897263?style=flat-square&logo=Dbeaver&logoColor=white"/> 
 </div>
 
 ### 📒<a href="https://backpjh.notion.site/22cb3ab6615b4dfe90d36d6ea840458b?v=8f5203c3557c4dc6a903356363e4ff4e">Notion</a>
+
+### Summary
+<div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyunParkDev&layout=compact)  
+
+</div>
+<div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyunParkDev&show_icons=true&)
+
+</div>
 
 <!--
 **JongHyunParkDev/JongHyunParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
