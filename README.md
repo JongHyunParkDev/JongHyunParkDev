@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Capacitor-2496ED?style=flat-square&logo=Capacitor&logoColor=white"/> 
 </div>
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
