@@ -41,7 +41,7 @@
 </div>
 
 ### 📒<a href="https://backpjh.notion.site/22cb3ab6615b4dfe90d36d6ea840458b?v=8f5203c3557c4dc6a903356363e4ff4e">Notion</a>
-
+### 📙<a href="https://pjhdev.blogspot.com/">Blogger</a>
 ### Summary
 <div>
 
